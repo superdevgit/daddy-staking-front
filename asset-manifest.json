@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8edecd0d.chunk.css",
+    "main.js": "/static/js/main.9885bcc6.chunk.js",
+    "main.js.map": "/static/js/main.9885bcc6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff5b8ea4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff5b8ea4.js.map",
+    "static/css/2.70c0252f.chunk.css": "/static/css/2.70c0252f.chunk.css",
+    "static/js/2.0d8c57d4.chunk.js": "/static/js/2.0d8c57d4.chunk.js",
+    "static/js/2.0d8c57d4.chunk.js.map": "/static/js/2.0d8c57d4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.70c0252f.chunk.css.map": "/static/css/2.70c0252f.chunk.css.map",
+    "static/css/main.8edecd0d.chunk.css.map": "/static/css/main.8edecd0d.chunk.css.map",
+    "static/js/2.0d8c57d4.chunk.js.LICENSE.txt": "/static/js/2.0d8c57d4.chunk.js.LICENSE.txt",
+    "static/media/Jiraf.a12945de.png": "/static/media/Jiraf.a12945de.png",
+    "static/media/App.css": "/static/media/boorsok.12ad833f.ttf",
+    "static/media/connectWallet.0d422f59.png": "/static/media/connectWallet.0d422f59.png",
+    "static/media/logo.b4703018.png": "/static/media/logo.b4703018.png",
+    "static/media/stable.109c4958.png": "/static/media/stable.109c4958.png",
+    "static/media/stableAll.f64d1375.png": "/static/media/stableAll.f64d1375.png",
+    "static/media/stopStabling.d9ff41dd.png": "/static/media/stopStabling.d9ff41dd.png",
+    "static/media/stopStablingAll.e72633be.png": "/static/media/stopStablingAll.e72633be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff5b8ea4.js",
+    "static/css/2.70c0252f.chunk.css",
+    "static/js/2.0d8c57d4.chunk.js",
+    "static/css/main.8edecd0d.chunk.css",
+    "static/js/main.9885bcc6.chunk.js"
+  ]
+}
